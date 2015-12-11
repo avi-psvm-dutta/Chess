@@ -36,3 +36,7 @@ public class Chess
 		}.start();
 	}
 }
+
+/** TODO:
+ * Make a user interface to move pieces around
+ */
